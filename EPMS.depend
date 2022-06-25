@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1604765466 source:c:\users\karan\desktop\cs program\epms\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<string.h>
+	<ctime>
+	<conio.h>
+	<stdlib.h>
+
+1476096933 c:\program files (x86)\dev-cpp\mingw64\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1476096946 c:\program files (x86)\dev-cpp\mingw64\include\mysql_com.h
+
+1476096972 c:\program files (x86)\dev-cpp\mingw64\include\mysql_time.h
+
+1476096983 c:\program files (x86)\dev-cpp\mingw64\include\mysql_version.h
+	<custom_conf.h>
+
+1476097123 c:\program files (x86)\dev-cpp\mingw64\include\typelib.h
+
+1476097168 c:\program files (x86)\dev-cpp\mingw64\include\my_list.h
+
+1476097177 c:\program files (x86)\dev-cpp\mingw64\include\my_alloc.h
+
+1604200039 c:\users\karan\desktop\cs program\epms\include\questions.h
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<string.h>
+	<ctime>
+	<conio.h>
+	<stdlib.h>
+
+1604199977 source:c:\users\karan\desktop\cs program\epms\src\questions.cpp
+
+1604761586 source:c:\users\karan\desktop\cs program\epms\try.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<stdlib.h>
+	<dos.h>
+	<string.h>
+
+1604761151 c:\program files (x86)\dev-cpp\mingw64\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1604830367 source:c:\users\karan\desktop\project 1\epms\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<string.h>
+	<ctime>
+	<conio.h>
+	<stdlib.h>
+
